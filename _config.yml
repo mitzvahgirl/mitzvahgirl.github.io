@@ -1,11 +1,11 @@
 # Site settings
 author: Amy Fogelman
-title: 
+title: Standing Room Online
 header-img: img/home-bg.png
 email: abfnj1@gmail.com
 copyright_name: Amy Fogelman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Theatre meets Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mitzvahgirl
