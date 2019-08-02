@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scraping Broadway.com"
-date:       2019-08-02 01:34:09 +0000
+date:       2019-08-01 21:34:10 -0400
 permalink:  scraping_broadway_com
 ---
 
@@ -9,7 +9,11 @@ permalink:  scraping_broadway_com
 
 
 
+[![Broadway-com-screen-shot.png](https://i.postimg.cc/k4g6FvGt/Broadway-com-screen-shot.png)]
+
+
 [![Broadway-com-screen-shot.png](https://i.postimg.cc/k4g6FvGt/Broadway-com-screen-shot.png)](https://postimg.cc/mcKgTMQb)
+
 
 
 
