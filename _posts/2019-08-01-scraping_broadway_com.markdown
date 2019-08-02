@@ -21,4 +21,4 @@ One of my goals for my portfolio and for the Flatiron School, is to relate each 
 
 problem." As such, I chose to create a CLI data gem that provides the user with information scraped from 
 
-[www.broadway.com.](http://)
+[www.broadway.com.](http://www.broadway.com)
