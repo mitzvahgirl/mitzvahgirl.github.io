@@ -8,9 +8,6 @@ permalink:  scraping_broadway_com
 
 
 
-
-
-
 [![Broadway-com-screen-shot.png](https://i.postimg.cc/k4g6FvGt/Broadway-com-screen-shot.png)](https://postimg.cc/mcKgTMQb)
 
 
