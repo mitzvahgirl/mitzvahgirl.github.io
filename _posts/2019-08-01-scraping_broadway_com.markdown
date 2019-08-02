@@ -19,5 +19,5 @@ permalink:  scraping_broadway_com
 
 One of my goals for my portfolio and for the Flatiron School, is to relate each project to a theatre-related ideaor  "user 
 
-problem." As such, I chose to create a CLI data gem that provides the user with information scraped from [www.broadway.com](http://www.broadway.com].
+problem." As such, I chose to create a CLI data gem that provides the user with information scraped from [[www.broadway.com](http://www.broadway.com]](http://).problem." As such, I chose to create a CLI data gem that provides the user with information scraped from [[www.broadway.com](http://www.broadway.com]](http://).
 
