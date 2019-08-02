@@ -25,12 +25,6 @@ www.broadway.com.
 
 
 
-The data from this site was scraped using the module Open-URI, which returns the HTML content of the particular URL, 
-
-and Nokogiri, a Ruby gem which parses through the HTML and returns the item of interest, based on the use of CSS 
-
-selectors.
-
 
 
 
