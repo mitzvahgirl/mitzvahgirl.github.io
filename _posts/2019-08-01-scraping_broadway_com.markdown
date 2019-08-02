@@ -9,7 +9,6 @@ permalink:  scraping_broadway_com
 
 
 
-[![Broadway-com-screen-shot.png](https://i.postimg.cc/k4g6FvGt/Broadway-com-screen-shot.png)]
 
 
 [![Broadway-com-screen-shot.png](https://i.postimg.cc/k4g6FvGt/Broadway-com-screen-shot.png)](https://postimg.cc/mcKgTMQb)
@@ -33,11 +32,7 @@ and Nokogiri, a Ruby gem which parses through the HTML and returns the item of i
 selectors.
 
 
-The data from this site was scraped using the module Open-URI, which returns the HTML content of the particular URL, 
 
-and Nokogiri, a Ruby gem which parses through the HTML and returns the item of interest, based on the use of CSS 
-
-selectors.
 
 
 
