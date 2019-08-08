@@ -9,7 +9,8 @@ permalink:  scraping_broadway_com
 
 
 
-[![Screen-Shot-2019-08-08-at-9-16-52-AM.png](https://i.postimg.cc/rp2PKZ8r/Screen-Shot-2019-08-08-at-9-16-52-AM.png)](https://postimg.cc/FYGZ6Zkr)
+[![Screen-Shot-2019-08-08-at-9-16-52-AM.png](https://i.postimg.cc/9FdBMmnc/Screen-Shot-2019-08-08-at-9-16-52-AM.png)](https://postimg.cc/qz7KDTrF)
+
 
 
 
