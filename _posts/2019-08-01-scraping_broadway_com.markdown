@@ -6,7 +6,11 @@ permalink:  scraping_broadway_com
 ---
 
 
+
+
 [Screen-Shot-2019-08-08-at-9-16-52-AM.png](https://postimg.cc/FYGZ6Zkr)
+
+
 
 
 One of my goals for my portfolio and for the Flatiron School, is to relate each project to theatre, and to hopefully solve a "user problem." In this case, there is no evident user problem, as there are already a significant number of transactional theatre sites and apps that allow you to look for, select and purchase tickets online. 
