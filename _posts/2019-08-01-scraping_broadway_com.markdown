@@ -6,7 +6,8 @@ permalink:  scraping_broadway_com
 ---
 
 
-[Screen-Shot-2019-08-08-at-9-16-52-AM.png](https://postimg.cc/FYGZ6Zkr)](http://)
+
+[Screen-Shot-2019-08-08-at-9-16-52-AM.png](https://postimg.cc/FYGZ6Zkr)
 
 
 
