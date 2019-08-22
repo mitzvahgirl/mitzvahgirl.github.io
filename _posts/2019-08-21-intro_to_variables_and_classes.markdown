@@ -7,7 +7,6 @@ permalink:  intro_to_variables_and_classes
 
 
 
-
 This blog will illustrate the differences between Instance vs. Class Variables, Instance vs. Class Methods, as well as the 
 
 use of Attribute Accessors as part of the Object-Oriented Programming language, Ruby. In Ruby, everything is an object 
