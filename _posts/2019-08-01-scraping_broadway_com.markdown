@@ -40,7 +40,14 @@ which parses the HTML and returns the selected production, using CSS selectors.
 
 
 
-**Step 1**: (image to be inserted here)
+**Step 1**:
+
+
+
+[![Screen-Shot-2019-08-21-at-8-16-46-AM.png](https://i.postimg.cc/QC3YCVKh/Screen-Shot-2019-08-21-at-8-16-46-AM.png)](https://postimg.cc/mzmy6LS5)
+
+
+
 
 The CLI will generate a numbered list of of shows. The user selects a show to see further details. The user can 
 
@@ -48,7 +55,10 @@ type **list**  to repeat the list or **exit** to end the program.
 
 
 
-**Step 2**: (image to be inserted here)
+**Step 2**
+
+
+[![Screen-Shot-2019-08-21-at-8-17-36-AM.png](https://i.postimg.cc/85Dfy5Fg/Screen-Shot-2019-08-21-at-8-17-36-AM.png)](https://postimg.cc/LqCs5mBx)
 
 
 
