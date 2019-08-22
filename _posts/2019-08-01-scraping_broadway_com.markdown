@@ -49,9 +49,7 @@ which parses the HTML and returns the selected production, using CSS selectors.
 
 
 
-The CLI will generate a numbered list of of shows. The user selects a show to see further details. The user can 
-
-type **list**  to repeat the list or **exit** to end the program.
+The CLI will generate a numbered list of of shows. The user selects a show to see further details. The user can type **list**  to repeat the list or **exit** to end the program.
 
 
 
