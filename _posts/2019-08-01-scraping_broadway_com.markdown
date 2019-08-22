@@ -16,7 +16,6 @@ permalink:  scraping_broadway_com
 
 
 
-
 One of my goals for my portfolio and for the Flatiron School, is to relate each project to theatre, and to hopefully 
 solve a "user problem." In this case, there is no evident user problem, as there are already a significant number of 
 transactional theatre sites and apps that allow you to look for, select and purchase tickets online. 
@@ -26,7 +25,6 @@ The first project for the Flatiron School Software Engineering program includes 
 provides a list of all shows playing on and off-Broadway. From that point, the user can get the theatre, address of 
 theatre and the production's plot summary. For the purposes of this project, I will be scraping data from 
 www.playbill.com, the online portal for the heritage brand of theatre programs.
-
 
 
 The data from the site was scraped using Open-URI, which returns the HTML content and Nokogiri, a Ruby gem 
