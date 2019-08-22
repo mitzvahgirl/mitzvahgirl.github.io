@@ -17,8 +17,6 @@ the Ruby program how to make an object of a particular variety.
 
  
 
-## **Variables**
-
 
 As in many languages, Scope defines where in a program Variable is accessible.  A Variable is a symbol or name that 
 
@@ -69,9 +67,6 @@ inside of a method and are generally found at the top of the class.
 
 
 
-## **Methods**
-
-
 Ruby methods are used to bundle one or more repeatable statements into a single unit. Typically, method names should 
 
 begin with a lowercase letter. Methods should be defined before calling them, otherwise Ruby will raise an exception for 
@@ -91,10 +86,6 @@ access any member of the class. In Ruby, the method is defined with the keyword 
 
 one word) and the block is finished with the keyword **end**. 
 
-
-
-
-## **Attribute Accessors**
 
 
 To protect your instances from invalid data, Ruby doesn't allow you to access or change Instance Variables from outside 
