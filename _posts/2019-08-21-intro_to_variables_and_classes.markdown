@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Intro to Variables and Classes"
-date:       2019-08-22 02:23:42 +0000
+date:       2019-08-21 22:23:42 -0400
 permalink:  intro_to_variables_and_classes
 ---
 
