@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project: Covet"
-date:       2019-12-19 15:06:13 +0000
+date:       2019-12-19 10:06:14 -0500
 permalink:  sinatra_project_covet
 ---
 
