@@ -13,7 +13,7 @@ I decided to create a Sinatra CRUD app called "Covet." CRUD stands for Create, R
 
 Sinatra is a Ruby gem that allows you to specify how an app will respond to different http requests (GET, POST, etc.) and routes (the part of the URL after the domain)
 
-To get organized I created a list of items by category so I could figure out how to set up my views and create the file structure. As required by the project, we also need to be able to login and logout of the app. I envisioned that once a user signs up on the website, the fan is able to view other users' inventories and has the ability to create a an inventory of their own stuff. 
+To get organized I created a list of items by category so I could figure out how to set up my views and create the file structure and environment. As required by the project, we also need to be able to login and logout of the app. I envisioned that once a user signs up on the website, the fan is able to view other users' inventories and has the ability to create a an inventory of their own stuff. 
 
 I tested out this application in the browser with the help of a gem called Shotgun, which allows you to refresh a page to see changes, no need to restart the local server.
 
