@@ -57,9 +57,8 @@ Apparel
 
 I wanted to be able to create categories and inventories within those categories (the "has many" relationship."
 
-I have three models, which are the M in MVC: Category, Inventory and User and four categories of Views, the V of MVC. There are five controllers (the C), including one for each model (users, persons, and interactions).  
-
 I tested out this application in the browser with the help of a gem called Shotgun, which allows you to refresh a page to see changes, no need to restart the local server.
+
 
 To use this app, just clone, run rake db:migrate and then run shotgun.
 
